@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chandanaheer22@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/chandan-aheer-a2908a232](www.linkedin.com/in/chandan-aheer-a2908a232)
+- 📄 Know about my experiences [www.linkedin.com/in/chandan-aheer]
 
 - ⚡ Fun fact **I think I am funny😅**
 
