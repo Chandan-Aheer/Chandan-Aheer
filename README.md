@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandan Aheer</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" alt="gif" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif" >
+<img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan3450&label=Profile%20views&color=0e75b6&style=flat" alt="chandan3450" /> </p>
 
 - 🌱 I’m currently learning **Frameworks of Javascript**
